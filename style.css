@@ -1,0 +1,21 @@
+.Filmujekvarabei{
+    font-size: 34px;
+    color: rgb(155, 7, 7);
+    background-color: rgb(230, 20, 20);
+    height: 10px;
+    font-weight: 900;
+}
+
+.vcelovekpauc {
+    font-size: 43px;
+    color: aqua;
+}
+
+#jeffrey {
+    color: brown;
+}
+img {
+   height:30%;
+   width: 30%;
+border: double 5px pink;
+}
